@@ -17,9 +17,9 @@ Eye diseases are among the leading causes of visual impairment worldwide. Accord
 | **N** | Normal | Healthy retinal condition |
 
 Traditional diagnosis relies on ophthalmologists manually interpreting fundus images—a process that is:
-- ⏱️ **Time-consuming:** Cannot scale for mass screening
-- 🎯 **Subjective:** Prone to inter-observer variability
-- 🌍 **Inaccessible:** Quality care unevenly distributed globally
+- **Time-consuming:** Cannot scale for mass screening
+- **Subjective:** Prone to inter-observer variability
+- **Inaccessible:** Quality care unevenly distributed globally
 
 **Our Goal:** Systematically evaluate classic CNN architectures to identify optimal models for small-scale medical imaging datasets, providing actionable guidance for clinical AI deployment.
 
@@ -138,13 +138,13 @@ We employ comprehensive metrics to capture different aspects of model performanc
 
 ### Key Findings
 
-1. **🏆 ResNet18 & AlexNet** achieve identical accuracy (93.75%), but ResNet18 edges ahead on F1 score (0.9318 vs 0.9217)
+1. **ResNet18 & AlexNet** achieve identical accuracy (93.75%), but ResNet18 edges ahead on F1 score (0.9318 vs 0.9217)
 
-2. **🔴 VGG16 Catastrophically Fails** — With only 0.002 samples per parameter, the model memorizes noise rather than learning features
+2. **VGG16 Catastrophically Fails** — With only 0.002 samples per parameter, the model memorizes noise rather than learning features
 
-3. **📉 Depth ≠ Performance** — GoogLeNet (22 layers) underperforms AlexNet (8 layers), proving architecture design matters more than raw depth
+3. **Depth ≠ Performance** — GoogLeNet (22 layers) underperforms AlexNet (8 layers), proving architecture design matters more than raw depth
 
-4. **✅ Residual Connections are Critical** — Enable stable training of deeper networks on limited data
+4. **Residual Connections are Critical** — Enable stable training of deeper networks on limited data
 
 ### Training Dynamics
 
@@ -209,8 +209,3 @@ VGG16     : █████████░░░░░░░░░░░ 1.20 �
 5. He, K., et al. (2016). *Deep residual learning for image recognition.* CVPR.
 
 
----
-
-<p align="center">
-  <i>Built with ❤️ for advancing AI in ophthalmology</i>
-</p>
