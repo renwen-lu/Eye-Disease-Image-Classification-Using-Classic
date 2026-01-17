@@ -179,35 +179,6 @@ VGG16     : █████████░░░░░░░░░░░ 1.20 �
 
 ---
 
-## 📁 Repository Structure
-
-```
-eye-disease-classification/
-│
-├── 📁 data/
-│   └── PALM-Training400/          # iChallenge-PM dataset
-│       ├── P0001.jpg ... P0133.jpg   # Pathologic Myopia
-│       ├── H0001.jpg ... H0133.jpg   # High Myopia
-│       └── N0001.jpg ... N0133.jpg   # Normal
-│
-├── 📁 notebooks/
-│   └── eye_disease_classification.ipynb  # Complete training pipeline
-│
-├── 📁 paper/
-│   ├── eye_disease_classification.tex    # LaTeX source
-│   └── eye_disease_classification.pdf    # Compiled paper
-│
-├── 📁 figures/
-│   ├── architecture/              # Model diagrams
-│   ├── training_curves.png        # Loss over epochs
-│   ├── confusion_matrices.png     # Per-model confusion matrices
-│   └── metrics_comparison.png     # Bar chart comparison
-│
-└── README.md
-```
-
----
-
 ## 🔮 Future Directions
 
 ### Data-Level Improvements
@@ -237,11 +208,6 @@ eye-disease-classification/
 
 5. He, K., et al. (2016). *Deep residual learning for image recognition.* CVPR.
 
----
-
-## 📜 License
-
-This project is released under the MIT License.
 
 ---
 
