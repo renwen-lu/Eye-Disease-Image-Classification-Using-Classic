@@ -198,14 +198,26 @@ VGG16     : █████████░░░░░░░░░░░ 1.20 �
 
 ## 📚 References
 
-1. LeCun, Y., et al. (1998). *Gradient-based learning applied to document recognition.* Proceedings of the IEEE.
+## References
 
-2. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). *ImageNet classification with deep convolutional neural networks.* NeurIPS.
+1. Gulshan, V., Peng, L., Coram, M., et al. (2016). Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs. *Journal of the American Medical Association*, 316(22), 2402–2410. https://doi.org/10.1001/jama.2016.17216
 
-3. Simonyan, K., & Zisserman, A. (2015). *Very deep convolutional networks for large-scale image recognition.* ICLR.
+2. Ting, D. S. W., Cheung, C. Y., Lim, G., et al. (2017). Development and validation of a deep learning system for diabetic retinopathy and related eye diseases using retinal images from multiethnic populations with diabetes. *Journal of the American Medical Association*, 318(22), 2211–2223. https://doi.org/10.1001/jama.2017.18152
 
-4. Szegedy, C., et al. (2015). *Going deeper with convolutions.* CVPR.
+3. Li, T., Gao, Y., Wang, K., et al. (2021). Applications of deep learning in fundus images: A review. *Medical Image Analysis*, 69, 101971. https://doi.org/10.1016/j.media.2021.101971
 
-5. He, K., et al. (2016). *Deep residual learning for image recognition.* CVPR.
+4. Sarki, R., Ahmed, K., Wang, H., & Zhang, Y. (2020). Automatic detection of diabetic eye disease through deep learning using fundus images: A survey. *IEEE Access*, 8, 151133–151149. https://doi.org/10.1109/ACCESS.2020.3015258
+
+5. Triwijoyo, B. K., Sabarguna, B. S., Budiharto, W., & Abdurachman, E. (2020). Deep learning approach for classification of eye diseases based on color fundus images. In *Diabetes and Fundus OCT* (pp. 25–57). Elsevier.
+
+6. LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278–2324. https://doi.org/10.1109/5.726791
+
+7. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 25, 1097–1105.
+
+8. Simonyan, K., & Zisserman, A. (2015). Very deep convolutional networks for large-scale image recognition. In *International Conference on Learning Representations (ICLR)*. arXiv:1409.1556
+
+9. Szegedy, C., Liu, W., Jia, Y., et al. (2015). Going deeper with convolutions. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 1–9. https://doi.org/10.1109/CVPR.2015.7298594
+
+10. He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 770–778. https://doi.org/10.1109/CVPR.2016.9028
 
 
